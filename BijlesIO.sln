@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BijlesIO", "BijlesIO\BijlesIO.csproj", "{BB226CAE-7A0A-45C4-BD35-078245AAFCF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileIOForTest", "FileIOForTest\FileIOForTest.csproj", "{C0904069-B547-40D6-AE2C-1C14188EFC8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB226CAE-7A0A-45C4-BD35-078245AAFCF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB226CAE-7A0A-45C4-BD35-078245AAFCF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB226CAE-7A0A-45C4-BD35-078245AAFCF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB226CAE-7A0A-45C4-BD35-078245AAFCF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0904069-B547-40D6-AE2C-1C14188EFC8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0904069-B547-40D6-AE2C-1C14188EFC8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0904069-B547-40D6-AE2C-1C14188EFC8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0904069-B547-40D6-AE2C-1C14188EFC8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {226D6463-75E8-43EA-BFC8-739D758A178C}
+	EndGlobalSection
+EndGlobal
